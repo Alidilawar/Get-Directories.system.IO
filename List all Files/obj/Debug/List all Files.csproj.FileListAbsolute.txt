@@ -1,0 +1,9 @@
+D:\List all Files\List all Files\bin\Debug\List all Files.exe.config
+D:\List all Files\List all Files\bin\Debug\List all Files.exe
+D:\List all Files\List all Files\bin\Debug\List all Files.pdb
+D:\List all Files\List all Files\obj\Debug\List all Files.csprojResolveAssemblyReference.cache
+D:\List all Files\List all Files\obj\Debug\List_all_Files.Form1.resources
+D:\List all Files\List all Files\obj\Debug\List_all_Files.Properties.Resources.resources
+D:\List all Files\List all Files\obj\Debug\List all Files.csproj.GenerateResource.Cache
+D:\List all Files\List all Files\obj\Debug\List all Files.exe
+D:\List all Files\List all Files\obj\Debug\List all Files.pdb
